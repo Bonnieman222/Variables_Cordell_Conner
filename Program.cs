@@ -11,13 +11,13 @@ class Program
         bool isJumping = false, isRunning = false;
 
         // Declare a floating point variable
-        float myFloatNumber;
+        float bigChungus;
 
         // Assign "favoriteNumber" to your favorite number
-        favoriteNumber = 7; // Example favorite number
+        favoriteNumber = 8; // Example favorite number
 
         // Assign a floating point value to the declared float variable
-        myFloatNumber = 3.14f; // Example float value
+      bigChungus = 3.14f; // Example float value
 
         // Initialize a constant double named "finalGrade"
         const double finalGrade = 95.5; // Example final grade
@@ -26,7 +26,7 @@ class Program
         Console.WriteLine("Favorite Number: " + favoriteNumber);
         Console.WriteLine("Is Jumping: " + isJumping);
         Console.WriteLine("Is Running: " + isRunning);
-        Console.WriteLine("Floating Point Number: " + myFloatNumber);
+        Console.WriteLine("Big Chungus: " + bigChungus);
         Console.WriteLine("Final Grade: " + finalGrade);
 
         // Keep the console window open
